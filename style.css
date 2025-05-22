@@ -1,0 +1,12 @@
+#square {
+  width: 100px;
+  height: 100px;
+  background-color: steelblue;
+  margin-right: 20px;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
